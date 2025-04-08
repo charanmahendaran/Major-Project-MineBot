@@ -1,1 +1,1 @@
-# Main-Project-Reverse-Vending-Machine--RVM-
+# Major Project Reverse Vending Machine (RVM)
