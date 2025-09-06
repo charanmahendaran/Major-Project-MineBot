@@ -1,1 +1,1 @@
-# Major Project Reverse Vending Machine (RVM)
+# Major Project MineBot
