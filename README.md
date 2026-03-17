@@ -35,7 +35,7 @@ Traditional monitoring systems are:
 
 ## 🏗️ System Architecture
 
-![Add Block Diagram Here](./images/block_diagram.png)
+![Block Diagram](./images/block_diagram.png)
 
 > 📍 *Insert Block Diagram image here*
 
@@ -73,7 +73,7 @@ The system consists of:
 
 ## 🔄 Working Methodology
 
-![Add Flowchart Here](./images/flowchart.png)
+![Flowchart](./images/flowchart.png)
 
 > 📍 *Insert Flowchart image here*
 
@@ -93,42 +93,42 @@ The system consists of:
 ## 📊 Results & Outputs
 
 ### 🟢 System Prototype
-![Add Prototype Image](./images/prototype.jpg)
+![Prototype Image](./images/prototype.jpg)
 
 > 📍 *Insert actual hardware setup image*
 
 ---
 
 ### 🚨 Gas Detection Output
-![Add CO Detection Image](./images/co_detection.jpg)
+![CO Detection Image](./images/co_detection.jpg)
 
 > 📍 *Shows "CO Detected" alert on LCD*
 
 ---
 
 ### 🔥 Fire Detection Output
-![Add Fire Detection Image](./images/fire_detection.jpg)
+![Fire Detection Image](./images/fire_detection.jpg)
 
 > 📍 *Shows fire alert triggered*
 
 ---
 
 ### 🪨 Metal Detection Output
-![Add Metal Detection Image](./images/metal_detection.jpg)
+![Metal Detection Image](./images/metal_detection.jpg)
 
 > 📍 *Displays "Metal Detected"*
 
 ---
 
 ### 📱 Telegram Alert System
-![Add Telegram Screenshot](./images/telegram_alert.jpg)
+![Telegram Screenshot](./images/telegram_alert.jpg)
 
 > 📍 *Real-time alerts sent to supervisor*
 
 ---
 
 ### 🎥 Live Video Feed
-![Add Camera Feed](./images/live_feed.jpg)
+![Camera Feed](./images/live_feed.jpg)
 
 > 📍 *ESP32-CAM live streaming output*
 
@@ -187,8 +187,6 @@ The system consists of:
 
 ## 📄 Project Report
 📎 [View Full Report](./docs/report.pdf)
-
-> Based on project documentation and final presentation :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
 ---
 
