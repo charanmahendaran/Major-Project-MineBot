@@ -37,7 +37,6 @@ Traditional monitoring systems are:
 
 ![Block Diagram](./images/block_diagram.png)
 
-> 📍 *Insert Block Diagram image here*
 
 The system consists of:
 - ESP32 microcontroller (core processing)
@@ -75,7 +74,6 @@ The system consists of:
 
 ![Flowchart](./images/flowchart.png)
 
-> 📍 *Insert Flowchart image here*
 
 ### Steps:
 1. System initializes sensors and communication modules
@@ -95,7 +93,6 @@ The system consists of:
 ### 🟢 System Prototype
 ![Prototype Image](./images/prototype.png)
 
-> 📍 *Insert actual hardware setup image*
 
 ---
 
