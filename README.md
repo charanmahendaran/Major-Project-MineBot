@@ -93,42 +93,42 @@ The system consists of:
 ## 📊 Results & Outputs
 
 ### 🟢 System Prototype
-![Prototype Image](./images/prototype.jpg)
+![Prototype Image](./images/prototype.png)
 
 > 📍 *Insert actual hardware setup image*
 
 ---
 
 ### 🚨 Gas Detection Output
-![CO Detection Image](./images/co_detection.jpg)
+![CO Detection Image](./images/co_detection.png)
 
 > 📍 *Shows "CO Detected" alert on LCD*
 
 ---
 
 ### 🔥 Fire Detection Output
-![Fire Detection Image](./images/fire_detection.jpg)
+![Fire Detection Image](./images/fire_detection.png)
 
 > 📍 *Shows fire alert triggered*
 
 ---
 
 ### 🪨 Metal Detection Output
-![Metal Detection Image](./images/metal_detection.jpg)
+![Metal Detection Image](./images/metal_detection.png)
 
 > 📍 *Displays "Metal Detected"*
 
 ---
 
 ### 📱 Telegram Alert System
-![Telegram Screenshot](./images/telegram_alert.jpg)
+![Telegram Screenshot](./images/telegram_alert.png)
 
 > 📍 *Real-time alerts sent to supervisor*
 
 ---
 
 ### 🎥 Live Video Feed
-![Camera Feed](./images/live_feed.jpg)
+![Camera Feed](./images/live_feed.png)
 
 > 📍 *ESP32-CAM live streaming output*
 
